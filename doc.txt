@@ -1,0 +1,14 @@
+step1: Create account on Razorpay
+
+Link: https://dashboard.razorpay.com/signin?screen=sign_in&utm_adgroup=brandsearch_core_exact&utm_campaign=RPSME-RPPerf-GSearchBrand-Prospect-Dweb-Core&utm_content=RPSME-Brand-010223&utm_medium=cpc&utm_source=google&utm_term=razorpay
+
+Step2: To start there project, open terminal
+> npm install
+
+Step3: to start
+> npm start
+
+step4: goto browser and paste: http://localhost:3000/
+
+Done!
+
